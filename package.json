@@ -1,0 +1,16 @@
+{
+  "name": "microplastics-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for querying microplastics data in Bay Area foods",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["mcp", "microplastics", "food-safety"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}

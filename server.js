@@ -28,7 +28,7 @@ function parseValue(value) {
 // Load and parse TSV data
 async function loadData() {
   try {
-    const tsvPath = path.join(__dirname, 'plasticlist-oct-2025.tsv');
+    const tsvPath = path.join(__dirname, 'plasticlist-feb-2026.tsv');
     const data = await fs.readFile(tsvPath, 'utf-8');
     const lines = data.trim().split('\n');
     const headers = lines[0].split('\t');

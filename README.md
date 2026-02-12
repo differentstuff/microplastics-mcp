@@ -41,6 +41,7 @@ cd microplastics-mcp
 2. **Install dependencies**:
 ```bash
 npm install
+npm audit fix
 ```
 
 3. **Configure Claude Desktop**:

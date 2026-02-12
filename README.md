@@ -34,7 +34,7 @@ The dataset includes:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/YOUR_USERNAME/microplastics-mcp.git
+git clone https://github.com/differentstuff/microplastics-mcp.git
 cd microplastics-mcp
 ```
 
